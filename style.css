@@ -1,22 +1,33 @@
 .header{
-    background-color: chocolate;
+    background-color: rgb(124, 113, 106);
     text-align: center;
     height:8rem;
     font-size: 3rem;
     padding-top: 3rem;
+    color: cyan;
+    
+}
+.placeholder{
+    color: cyan;
 }
 
 #textBox{
     width: 40rem;
     height: 5rem;
-    
+    background-color: ;
+    color:cyan;
     
 
 }
 .textarea{
     padding-left: 35rem;
-    padding-bottom: 3rem;
-    padding-top:1rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    border-color: cyan;
+    margin:bold;
+    color:cyan;
+    
+    
 }
 
 
@@ -26,20 +37,24 @@
    
 
 }
+.text{
+    color:cyan;
+}
 
 
 #buttonClick{
-    width:9rem;
+    width:14rem;
     height:5rem;
-
+    background-color:mintcream;
   
 
 }
 .bg-image{
     background-image: url("images/5852779.jpg");
-    background-size: cover;
-    background-size: 200px 100px;
+    
+    background-size: 90rem 30rem;
     background-repeat: no-repeat;
+    padding-bottom: 2rem;
 }
 .image-container {
     display: flex;
